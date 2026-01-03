@@ -91,3 +91,13 @@ This makes it highly effective for market basket and retail analytics.
 ```bash
 git clone https://github.com/aashwathyadav05-svg/Market-Basket-Analysis.git
 cd Market-Basket-Analysis
+```
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the Streamlit App
+```bash
+streamlit run app.py
+```
